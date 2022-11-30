@@ -1,4 +1,5 @@
 # GIT technologiyasini test qilish
+-----------------------------------------
 
 Bu ***GIT*** technologiyasini urganish hamda praktika uchun chiqarilgan repository
 
